@@ -98,3 +98,7 @@ header {
   flex-direction: row;
   justify-content: space-between;
 }
+
+.dark {
+  background-color: black;
+  color: white;
